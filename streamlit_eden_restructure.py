@@ -52,8 +52,20 @@ def safe_icon_to_data_uri(path: str) -> str:
     if not os.path.isabs(path):
         path = os.path.join(BASE_DIR, path.lstrip("/\\"))
     if not os.path.exists(path):
-        log_debug(f"[NoFile] {path}")
-        return placeholder
+        # --- 대소문자 무시하고 같은 이름 파일 탐색 (Streamlit Cloud 대비) ---
+        dir_path, file_name = os.path.split(path)
+        try:
+            if dir_path and os.path.isdir(dir_path):
+                lc = file_name.lower()
+                for f in os.listdir(dir_path):
+                    if f.lower() == lc:
+                        path = os.path.join(dir_path, f)
+                        break
+        except Exception as e:
+            log_debug(f"[CaseSearchErr] {dir_path}: {e}")
+        if not os.path.exists(path):
+            log_debug(f"[NoFile] {path}")
+            return placeholder
     try:
         b64_str = get_image_base64(path)
         if not b64_str:

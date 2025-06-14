@@ -1,0 +1,727 @@
+﻿row_index,cell_1_icon_src,cell_1_icon_alt,cell_2_name_link_text,cell_2_full_text,cell_3_img_srcs,cell_3_img_alts,cell_4_text
+1,/thumb.php?f=101010211_rank5_command.png&width=80,101010211 rank5 command.png,Linaria,"| Linaria | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2025-06-05
+2,/thumb.php?f=101050211_rank5_command.png&width=80,101050211 rank5 command.png,Selfless Seeker,"| Selfless Seeker | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000005 icon.png, 216000004 icon.png",2025-05-22
+3,/thumb.php?f=101060141_s2_rank5_command.png&width=80,101060141 s2 rank5 command.png,Red Clad Flam. (Another Style),"| Red Clad Flam. (Another Style) | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 64.png, 202000006 icon.png, 216000003 icon.png",2025-05-08
+4,/thumb.php?f=101070131_s2_rank5_command.png&width=80,101070131 s2 rank5 command.png,Velette AS,"| Velette AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 16.png, 202000007 icon.png, 216000002 icon.png",2025-04-24
+5,/thumb.php?f=2000000009_s2_command.png&width=80,2000000009 s2 command.png,Gunce (Another Style),"| Gunce (Another Style) | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2025-04-24
+6,/thumb.php?f=101910011_s2_rank5_command.png&width=80,101910011 s2 rank5 command.png,Aldo AS,"| Aldo AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2025-04-12
+7,/thumb.php?f=101060201_rank5_command.png&width=80,101060201 rank5 command.png,Nilya,"| Nilya | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 64.png, 202000006 icon.png, 216000003 icon.png",2025-04-12
+8,/thumb.php?f=2000000016_command.png&width=80,2000000016 command.png,Jilya,"| Jilya | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2025-04-12
+9,/thumb.php?f=101020031_s3_rank5_command.png&width=80,101020031 s3 rank5 command.png,Shion ES,"| Shion ES | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 16.png, 202000002 icon.png, 216000004 icon.png",2025-04-12
+10,/thumb.php?f=2000000017_rank5_command.png&width=80,2000000017 rank5 command.png,Laika,"| Laika | 
+ | 3~5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2025-04-12
+11,/thumb.php?f=101020191_s2_rank5_command.png&width=80,101020191 s2 rank5 command.png,Senya AS,"| Senya AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 32.png, Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2025-03-19
+12,/thumb.php?f=101000301_s2_rank5_command.png&width=80,101000301 s2 rank5 command.png,Jet Tactician (Another Style),"| Jet Tactician (Another Style) | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2025-03-19
+13,/thumb.php?f=2000000018_command.png&width=80,2000000018 command.png,Kuramaru,"| Kuramaru | 
+ | 4★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2025-03-19
+14,/thumb.php?f=101040011_s2_rank5_command.png&width=80,101040011 s2 rank5 command.png,Komachi AS,"| Komachi AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2025-03-06
+15,/thumb.php?f=101050201_rank5_command.png&width=80,101050201 rank5 command.png,Hoarfrost Songstress,"| Hoarfrost Songstress | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000005 icon.png, 216000004 icon.png",2025-02-20
+16,/thumb.php?f=101000071_s2_rank5_command.png&width=80,101000071 s2 rank5 command.png,Krervo AS,"| Krervo AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2025-02-06
+17,/thumb.php?f=101070161_rank5_command.png&width=80,101070161 rank5 command.png,Kagurame,"| Kagurame | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 32.png, 202000007 icon.png, 216000002 icon.png",2025-01-23
+18,/thumb.php?f=101010191_rank5_command.png&width=80,101010191 rank5 command.png,Forlorn Thespian,"| Forlorn Thespian | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2025-01-09
+19,/thumb.php?f=101030151_s3_rank5_command.png&width=80,101030151 s3 rank5 command.png,Necoco ES,"| Necoco ES | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000005 icon.png, 216000004 icon.png",2024-12-30
+20,/thumb.php?f=101010161_s2_rank5_command.png&width=80,101010161 s2 rank5 command.png,Elseal AS,"| Elseal AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2024-12-19
+21,/thumb.php?f=101460141_rank5_command.png&width=80,101460141 rank5 command.png,Empel,"| Empel | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2024-12-05
+22,/thumb.php?f=101060191_rank5_command.png&width=80,101060191 rank5 command.png,Id,"| Id | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2024-12-05
+23,/thumb.php?f=2000000015_command.png&width=80,2000000015 command.png,Hazama,"| Hazama | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-12-05
+24,/thumb.php?f=101460131_rank5_command.png&width=80,101460131 rank5 command.png,Klaudia,"| Klaudia | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000005 icon.png, 216000004 icon.png",2024-12-05
+25,/thumb.php?f=101460121_rank5_command.png&width=80,101460121 rank5 command.png,Ryza,"| Ryza | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2024-12-05
+26,/thumb.php?f=101000391_rank5_command.png&width=80,101000391 rank5 command.png,Izuna,"| Izuna | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 16.png, 202000000 icon.png, 216000004 icon.png",2024-11-21
+27,/thumb.php?f=101060051_s2_rank5_command.png&width=80,101060051 s2 rank5 command.png,Rufus AS,"| Rufus AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2024-11-07
+28,/thumb.php?f=101060181_rank5_command.png&width=80,101060181 rank5 command.png,Nocturne Ninja,"| Nocturne Ninja | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000006 icon.png, 216000003 icon.png",2024-10-24
+29,/thumb.php?f=101020161_s2_rank5_command.png&width=80,101020161 s2 rank5 command.png,Sesta AS,"| Sesta AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2024-10-10
+30,/thumb.php?f=101020191_rank5_command.png&width=80,101020191 rank5 command.png,Senya,"| Senya | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 32.png, Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2024-09-19
+31,/thumb.php?f=101020101_s3_rank5_command.png&width=80,101020101 s3 rank5 command.png,Shigure ES,"| Shigure ES | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2024-09-19
+32,/thumb.php?f=101060021_s2_rank5_command.png&width=80,101060021 s2 rank5 command.png,Lingli AS,"| Lingli AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2024-09-05
+33,/thumb.php?f=101460051_rank5_command.png&width=80,101460051 rank5 command.png,Kula,"| Kula | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000006 icon.png, 216000003 icon.png",2024-08-22
+34,/thumb.php?f=101460021_rank5_command.png&width=80,101460021 rank5 command.png,Kyo,"| Kyo | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2024-08-22
+35,/thumb.php?f=101460041_rank5_command.png&width=80,101460041 rank5 command.png,Mai,"| Mai | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2024-08-22
+36,/thumb.php?f=101070151_rank5_command.png&width=80,101070151 rank5 command.png,Thornbound Witch,"| Thornbound Witch | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 32.png, 202000007 icon.png, 216000002 icon.png",2024-08-22
+37,/thumb.php?f=101460031_rank5_command.png&width=80,101460031 rank5 command.png,Terry,"| Terry | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2024-08-22
+38,/thumb.php?f=101030081_s2_rank5_command.png&width=80,101030081 s2 rank5 command.png,Zilva AS,"| Zilva AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 2.png, 202000003 icon.png, 216000003 icon.png",2024-08-08
+39,/thumb.php?f=101030211_rank5_command.png&width=80,101030211 rank5 command.png,Utpalaka,"| Utpalaka | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 16.png, 202000003 icon.png, 216000003 icon.png",2024-07-25
+40,/thumb.php?f=101060171_rank5_command.png&width=80,101060171 rank5 command.png,Undercover Scribe,"| Undercover Scribe | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2024-07-04
+41,/thumb.php?f=101010131_s2_rank5_command.png&width=80,101010131 s2 rank5 command.png,Minalca AS,"| Minalca AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2024-06-20
+42,/thumb.php?f=2000000001_s2_command.png&width=80,2000000001 s2 command.png,Tetra (Another Style),"| Tetra (Another Style) | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-06-20
+43,/thumb.php?f=101900011_s2_rank5_command.png&width=80,101900011 s2 rank5 command.png,Feinne AS,"| Feinne AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2024-06-06
+44,/thumb.php?f=101010181_rank5_command.png&width=80,101010181 rank5 command.png,Jillfunny,"| Jillfunny | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 64.png, 202000001 icon.png, 216000002 icon.png",2024-06-06
+45,/thumb.php?f=2000000013_command.png&width=80,2000000013 command.png,Pyggie,"| Pyggie | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-06-06
+46,/thumb.php?f=2000000014_rank5_command.png&width=80,2000000014 rank5 command.png,Thysía,"| Thysía | 
+ | 3~5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-06-06
+47,/thumb.php?f=101030201_rank5_command.png&width=80,101030201 rank5 command.png,Mazrika,"| Mazrika | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2024-05-23
+48,/thumb.php?f=101000331_s2_rank5_command.png&width=80,101000331 s2 rank5 command.png,Yakumo AS,"| Yakumo AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 32.png, 202000000 icon.png, 216000004 icon.png",2024-05-09
+49,/thumb.php?f=2000000006_s2_command.png&width=80,2000000006 s2 command.png,Kumos (Another Style),"| Kumos (Another Style) | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-05-09
+50,/thumb.php?f=101070141_rank5_command.png&width=80,101070141 rank5 command.png,Virtual Reflection,"| Virtual Reflection | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, Skill Type 8 16.png, 202000007 icon.png, 216000002 icon.png",2024-04-25
+51,/thumb.php?f=101010011_s3_rank5_command.png&width=80,101010011 s3 rank5 command.png,Anabel ES,"| Anabel ES | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000004 icon.png, 216000002 icon.png",2024-04-12
+52,/thumb.php?f=101000381_rank5_command.png&width=80,101000381 rank5 command.png,Xianhua,"| Xianhua | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2024-04-12
+53,/thumb.php?f=101000371_rank5_command.png&width=80,101000371 rank5 command.png,Kuchinawa,"| Kuchinawa | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2024-03-21
+54,/thumb.php?f=101070111_s2_rank5_command.png&width=80,101070111 s2 rank5 command.png,Daisy AS,"| Daisy AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000007 icon.png, 216000002 icon.png",2024-03-08
+55,/thumb.php?f=101040141_s2_rank5_command.png&width=80,101040141 s2 rank5 command.png,Ewella AS,"| Ewella AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 64.png, 202000004 icon.png, 216000002 icon.png",2024-02-22
+56,/thumb.php?f=101030191_rank5_command.png&width=80,101030191 rank5 command.png,Sazanca,"| Sazanca | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000003 icon.png, 216000003 icon.png",2024-02-08
+57,/thumb.php?f=101010171_rank5_command.png&width=80,101010171 rank5 command.png,Melpiphia,"| Melpiphia | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2024-01-26
+58,/thumb.php?f=2009000001_command.png&width=80,2009000001 command.png,Iridian (Attack),"| Iridian (Attack) | 
+ | 4★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-01-26
+59,/thumb.php?f=2009000002_command.png&width=80,2009000002 command.png,Iridian (Defense),"| Iridian (Defense) | 
+ | 4★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-01-26
+60,/thumb.php?f=2009000003_command.png&width=80,2009000003 command.png,Iridian (Heal),"| Iridian (Heal) | 
+ | 4★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-01-26
+61,/thumb.php?f=101020181_rank5_command.png&width=80,101020181 rank5 command.png,Blooming Blade,"| Blooming Blade | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000002 icon.png, 216000004 icon.png",2024-01-22
+62,/thumb.php?f=101010121_s3_rank5_command.png&width=80,101010121 s3 rank5 command.png,Thillelille ES,"| Thillelille ES | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 64.png, 202000001 icon.png, 216000002 icon.png",2024-01-16
+63,/thumb.php?f=2000000012_command.png&width=80,2000000012 command.png,Moke,"| Moke | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2024-01-16
+64,/thumb.php?f=101050171_s2_rank5_command.png&width=80,101050171 s2 rank5 command.png,Alma AS,"| Alma AS | 
+ | 5★ SA","/thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 64.png, 202000005 icon.png, 216000004 icon.png",2024-01-09
+65,/thumb.php?f=101050191_rank5_command.png&width=80,101050191 rank5 command.png,Wenefica,"| Wenefica | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 32.png, 202000005 icon.png, 216000004 icon.png",2023-12-28
+66,/thumb.php?f=101450051_rank5_command.png&width=80,101450051 rank5 command.png,Cyrus Albright,"| Cyrus Albright | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 8.png, Skill Type 8 16.png, 202000000 icon.png, 216000004 icon.png",2023-12-07
+67,/thumb.php?f=101020171_rank5_command.png&width=80,101020171 rank5 command.png,Oboro,"| Oboro | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 16.png, 202000002 icon.png, 216000004 icon.png",2023-12-07
+68,/thumb.php?f=101450061_rank5_command.png&width=80,101450061 rank5 command.png,Partitio,"| Partitio | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2023-12-07
+69,/thumb.php?f=101450071_rank5_command.png&width=80,101450071 rank5 command.png,Tithi,"| Tithi | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 16.png, 202000006 icon.png, 216000003 icon.png",2023-12-07
+70,/thumb.php?f=101050181_rank5_command.png&width=80,101050181 rank5 command.png,Cerius,"| Cerius | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000005 icon.png, 216000004 icon.png",2023-11-24
+71,/thumb.php?f=101040201_rank5_command.png&width=80,101040201 rank5 command.png,Wryz,"| Wryz | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2023-11-24
+72,/thumb.php?f=101000161_s2_rank5_command.png&width=80,101000161 s2 rank5 command.png,Pom AS,"| Pom AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2023-11-15
+73,/thumb.php?f=101030171_s2_rank5_command.png&width=80,101030171 s2 rank5 command.png,Orleya AS,"| Orleya AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 16.png, 202000003 icon.png, 216000003 icon.png",2023-11-07
+74,/thumb.php?f=101000361_rank5_command.png&width=80,101000361 rank5 command.png,Porcelain Pixie,"| Porcelain Pixie | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2023-10-25
+75,/thumb.php?f=101000341_rank5_command.png&width=80,101000341 rank5 command.png,Kamlanage,"| Kamlanage | 
+ | 5★","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 16.png, 202000000 icon.png, 216000004 icon.png",2023-10-17
+76,/thumb.php?f=101070131_rank5_command.png&width=80,101070131 rank5 command.png,Velette,"| Velette | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 16.png, 202000007 icon.png, 216000002 icon.png",2023-10-17
+77,/thumb.php?f=2000000009_command.png&width=80,2000000009 command.png,Gunce,"| Gunce | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-10-17
+78,/thumb.php?f=2000000010_command.png&width=80,2000000010 command.png,Hyuga,"| Hyuga | 
+ | 4★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-10-17
+79,/thumb.php?f=101050031_s2_rank5_command.png&width=80,101050031 s2 rank5 command.png,Parisa AS,"| Parisa AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2023-10-06
+80,/thumb.php?f=101000351_rank5_command.png&width=80,101000351 rank5 command.png,Dream Weaver,"| Dream Weaver | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2023-09-26
+81,/thumb.php?f=101000141_s2_rank5_command.png&width=80,101000141 s2 rank5 command.png,Melody AS,"| Melody AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000000 icon.png, 216000004 icon.png",2023-09-15
+82,/thumb.php?f=101070121_s2_rank5_command.png&width=80,101070121 s2 rank5 command.png,Noahxis AS,"| Noahxis AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000007 icon.png, 216000002 icon.png",2023-09-15
+83,/thumb.php?f=101060091_s3_rank5_command.png&width=80,101060091 s3 rank5 command.png,Felmina ES,"| Felmina ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2023-09-06
+84,/thumb.php?f=101010161_rank5_command.png&width=80,101010161 rank5 command.png,Elseal,"| Elseal | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2023-08-25
+85,/thumb.php?f=101050111_s2_rank5_command.png&width=80,101050111 s2 rank5 command.png,Premaya AS,"| Premaya AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000005 icon.png, 216000004 icon.png",2023-08-15
+86,/thumb.php?f=101030181_rank5_command.png&width=80,101030181 rank5 command.png,Crimson Reaper,"| Crimson Reaper | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2023-08-04
+87,/thumb.php?f=2000000008_command.png&width=80,2000000008 command.png,Limil,"| Limil | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-08-04
+88,/thumb.php?f=101050141_s2_rank5_command.png&width=80,101050141 s2 rank5 command.png,Pizzica AS,"| Pizzica AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2023-07-25
+89,/thumb.php?f=2000000007_command.png&width=80,2000000007 command.png,Pisce,"| Pisce | 
+ | 3~4★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-07-25
+90,/thumb.php?f=101050161_s2_rank5_command.png&width=80,101050161 s2 rank5 command.png,Nona AS,"| Nona AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 32.png, 202000005 icon.png, 216000004 icon.png",2023-07-14
+91,/thumb.php?f=101020161_rank5_command.png&width=80,101020161 rank5 command.png,Sesta,"| Sesta | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2023-07-14
+92,/thumb.php?f=101000051_s3_rank5_command.png&width=80,101000051 s3 rank5 command.png,Toova ES,"| Toova ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 32.png, 202000007 icon.png, 216000002 icon.png",2023-07-14
+93,/thumb.php?f=101060121_s2_rank5_command.png&width=80,101060121 s2 rank5 command.png,Lovely AS,"| Lovely AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2023-07-05
+94,/thumb.php?f=101060081_s2_rank5_command.png&width=80,101060081 s2 rank5 command.png,Cerrine AS,"| Cerrine AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2023-06-21
+95,/thumb.php?f=101010151_rank5_command.png&width=80,101010151 rank5 command.png,Beautiful Stranger,"| Beautiful Stranger | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2023-06-21
+96,/thumb.php?f=101000331_rank5_command.png&width=80,101000331 rank5 command.png,Yakumo,"| Yakumo | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 32.png, 202000000 icon.png, 216000004 icon.png",2023-06-09
+97,/thumb.php?f=2000000006_command.png&width=80,2000000006 command.png,Kumos,"| Kumos | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-06-09
+98,/thumb.php?f=101060101_s2_rank5_command.png&width=80,101060101 s2 rank5 command.png,Dewey AS,"| Dewey AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000006 icon.png, 216000003 icon.png",2023-05-10
+99,/thumb.php?f=101040191_rank5_command.png&width=80,101040191 rank5 command.png,Vermillion Whip,"| Vermillion Whip | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000004 icon.png, 216000002 icon.png",2023-04-26
+100,/thumb.php?f=101000031_s3_rank5_command.png&width=80,101000031 s3 rank5 command.png,Mariel ES,"| Mariel ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 64.png, 202000006 icon.png, 216000003 icon.png",2023-04-11
+101,/thumb.php?f=101020121_s2_rank5_command.png&width=80,101020121 s2 rank5 command.png,Heena AS,"| Heena AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2023-03-24
+102,/thumb.php?f=101040161_s2_rank5_command.png&width=80,101040161 s2 rank5 command.png,Garambarrel AS,"| Garambarrel AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000004 icon.png, 216000002 icon.png",2023-03-10
+103,/thumb.php?f=101060161_rank5_command.png&width=80,101060161 rank5 command.png,Ashtear,"| Ashtear | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2023-02-24
+104,/thumb.php?f=2000000002_command.png&width=80,2000000002 command.png,Korobo,"| Korobo | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-02-24
+105,/thumb.php?f=101010131_rank5_command.png&width=80,101010131 rank5 command.png,Minalca,"| Minalca | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2023-02-24
+106,/thumb.php?f=2000000001_command.png&width=80,2000000001 command.png,Tetra,"| Tetra | 
+ | 5★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-02-24
+107,/thumb.php?f=2000000005_command.png&width=80,2000000005 command.png,Mordy,"| Mordy | 
+ | 4★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-02-24
+108,/thumb.php?f=2000000003_command.png&width=80,2000000003 command.png,Minimander,"| Minimander | 
+ | 3★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-02-24
+109,/thumb.php?f=2000000004_command.png&width=80,2000000004 command.png,Lord Ukulele,"| Lord Ukulele | 
+ | 3★",/thumb.php?f=Buddy_equipment.png&width=32,Buddy equipment.png,2023-02-24
+110,/thumb.php?f=101000271_s2_rank5_command.png&width=80,101000271 s2 rank5 command.png,Flammelapis AS,"| Flammelapis AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2023-02-10
+111,/thumb.php?f=101000321_rank5_command.png&width=80,101000321 rank5 command.png,Iphi,"| Iphi | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 32.png, 202000000 icon.png, 216000004 icon.png",2023-01-27
+112,/thumb.php?f=101040181_rank5_command.png&width=80,101040181 rank5 command.png,Noble Blossom,"| Noble Blossom | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000004 icon.png, 216000002 icon.png",2023-01-11
+113,/thumb.php?f=101030151_s2_rank5_command.png&width=80,101030151 s2 rank5 command.png,Necoco AS,"| Necoco AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000003 icon.png, 216000003 icon.png",2022-12-27
+114,/thumb.php?f=101450031_rank5_command.png&width=80,101450031 rank5 command.png,Alphen,"| Alphen | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2022-12-20
+115,/thumb.php?f=101450021_rank5_command.png&width=80,101450021 rank5 command.png,Colette,"| Colette | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2022-12-20
+116,/thumb.php?f=101010141_rank5_command.png&width=80,101010141 rank5 command.png,Moonlight Flower,"| Moonlight Flower | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2022-12-20
+117,/thumb.php?f=101450011_rank5_command.png&width=80,101450011 rank5 command.png,Lloyd,"| Lloyd | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2022-12-20
+118,/thumb.php?f=101450041_rank5_command.png&width=80,101450041 rank5 command.png,Shionne,"| Shionne | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2022-12-20
+119,/thumb.php?f=101070081_s2_rank5_command.png&width=80,101070081 s2 rank5 command.png,Biaka AS,"| Biaka AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000007 icon.png, 216000002 icon.png",2022-12-07
+120,/thumb.php?f=101010101_s2_rank5_command.png&width=80,101010101 s2 rank5 command.png,Cynthia AS,"| Cynthia AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2022-11-22
+121,/thumb.php?f=101050081_s3_rank5_command.png&width=80,101050081 s3 rank5 command.png,Claude ES,"| Claude ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2022-11-09
+122,/thumb.php?f=101000311_rank5_command.png&width=80,101000311 rank5 command.png,Aisha,"| Aisha | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2022-10-21
+123,/thumb.php?f=101040021_s2_rank5_command.png&width=80,101040021 s2 rank5 command.png,Soira AS,"| Soira AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000004 icon.png, 216000002 icon.png",2022-10-21
+124,/thumb.php?f=101060151_rank5_command.png&width=80,101060151 rank5 command.png,Uquaji,"| Uquaji | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000006 icon.png, 216000003 icon.png",2022-10-11
+125,/thumb.php?f=101050131_s2_rank5_command.png&width=80,101050131 s2 rank5 command.png,Yukino AS,"| Yukino AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000005 icon.png, 216000004 icon.png",2022-10-11
+126,/thumb.php?f=101000101_s2_rank5_command.png&width=80,101000101 s2 rank5 command.png,Lele AS,"| Lele AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2022-09-22
+127,/thumb.php?f=101050171_rank5_command.png&width=80,101050171 rank5 command.png,Alma,"| Alma | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 64.png, 202000005 icon.png, 216000004 icon.png",2022-09-09
+128,/thumb.php?f=101070101_s2_rank5_command.png&width=80,101070101 s2 rank5 command.png,Yipha AS,"| Yipha AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 0.png, 202000007 icon.png, 216000002 icon.png",2022-08-23
+129,/thumb.php?f=101020011_s2_rank5_command.png&width=80,101020011 s2 rank5 command.png,Azami AS,"| Azami AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2022-08-12
+130,/thumb.php?f=101000301_rank5_command.png&width=80,101000301 rank5 command.png,Jet Tactician,"| Jet Tactician | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2022-08-12
+131,/thumb.php?f=101010111_s2_rank5_command.png&width=80,101010111 s2 rank5 command.png,Radias AS,"| Radias AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2022-07-25
+132,/thumb.php?f=101010041_s3_rank5_command.png&width=80,101010041 s3 rank5 command.png,Miyu ES,"| Miyu ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, Skill Type 8 16.png, 202000004 icon.png, 216000002 icon.png",2022-07-08
+133,/thumb.php?f=101070121_rank5_command.png&width=80,101070121 rank5 command.png,Noahxis,"| Noahxis | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000007 icon.png, 216000002 icon.png",2022-07-08
+134,/thumb.php?f=101050161_rank5_command.png&width=80,101050161 rank5 command.png,Nona,"| Nona | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 32.png, 202000005 icon.png, 216000004 icon.png",2022-07-08
+135,/thumb.php?f=101030171_rank5_command.png&width=80,101030171 rank5 command.png,Orleya,"| Orleya | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 16.png, 202000003 icon.png, 216000003 icon.png",2022-07-08
+136,/thumb.php?f=101040131_s2_rank5_command.png&width=80,101040131 s2 rank5 command.png,Milsha AS,"| Milsha AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, Skill Type 8 32.png, 202000004 icon.png, 216000002 icon.png",2022-06-14
+137,/thumb.php?f=101030111_s2_rank5_command.png&width=80,101030111 s2 rank5 command.png,Philo AS,"| Philo AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2022-06-06
+138,/thumb.php?f=101020041_s2_rank5_command.png&width=80,101020041 s2 rank5 command.png,Otoha AS,"| Otoha AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000002 icon.png, 216000004 icon.png",2022-05-27
+139,/thumb.php?f=101000291_rank5_command.png&width=80,101000291 rank5 command.png,Mayu,"| Mayu | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2022-05-19
+140,/thumb.php?f=101040031_s3_rank5_command.png&width=80,101040031 s3 rank5 command.png,Suzette ES,"| Suzette ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000007 icon.png, 216000002 icon.png",2022-05-19
+141,/thumb.php?f=101050151_rank5_command.png&width=80,101050151 rank5 command.png,Silver Striker,"| Silver Striker | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 16.png, 202000005 icon.png, 216000004 icon.png",2022-04-27
+142,/thumb.php?f=101440051_rank5_command.png&width=80,101440051 rank5 command.png,Starky,"| Starky | 
+ | 5★","/thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 64.png, 202000000 icon.png, 216000004 icon.png",2022-04-27
+143,/thumb.php?f=101040171_rank5_command.png&width=80,101040171 rank5 command.png,Violet Lancer,"| Violet Lancer | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2022-04-15
+144,/thumb.php?f=101000271_rank5_command.png&width=80,101000271 rank5 command.png,Flammelapis,"| Flammelapis | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2022-04-07
+145,/thumb.php?f=101050121_s2_rank5_command.png&width=80,101050121 s2 rank5 command.png,Mistrare AS,"| Mistrare AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 64.png, 202000005 icon.png, 216000004 icon.png",2022-03-28
+146,/thumb.php?f=101030161_rank5_command.png&width=80,101030161 rank5 command.png,Cyan Scyther,"| Cyan Scyther | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2022-03-16
+147,/thumb.php?f=101060141_rank5_command.png&width=80,101060141 rank5 command.png,Red Clad Flam.,"| Red Clad Flam. | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 64.png, 202000006 icon.png, 216000003 icon.png",2022-02-25
+148,/thumb.php?f=101030131_s2_rank5_command.png&width=80,101030131 s2 rank5 command.png,Zeviro AS,"| Zeviro AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2022-02-15
+149,/thumb.php?f=101020141_rank5_command.png&width=80,101020141 rank5 command.png,Black Clad Sw.,"| Black Clad Sw. | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, Skill Type 8 32.png, 202000002 icon.png, 216000004 icon.png",2022-02-07
+150,/thumb.php?f=101000281_rank5_command.png&width=80,101000281 rank5 command.png,Eva,"| Eva | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 64.png, 202000000 icon.png, 216000004 icon.png",2022-01-28
+151,/thumb.php?f=101020151_rank5_command.png&width=80,101020151 rank5 command.png,Curio,"| Curio | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 32.png, 202000002 icon.png, 216000004 icon.png",2022-01-19
+152,/thumb.php?f=101020071_s3_rank5_command.png&width=80,101020071 s3 rank5 command.png,Isuka ES,"| Isuka ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 32.png, 202000001 icon.png, 216000002 icon.png",2022-01-19
+153,/thumb.php?f=101070111_rank5_command.png&width=80,101070111 rank5 command.png,Daisy,"| Daisy | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000007 icon.png, 216000002 icon.png",2022-01-07
+154,/thumb.php?f=101000201_s2_rank5_command.png&width=80,101000201 s2 rank5 command.png,Levia AS,"| Levia AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2021-12-17
+155,/thumb.php?f=101030071_s3_rank5_command.png&width=80,101030071 s3 rank5 command.png,Nagi ES,"| Nagi ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 64.png, 202000000 icon.png, 216000004 icon.png",2021-12-17
+156,/thumb.php?f=101440031_rank5_command.png&width=80,101440031 rank5 command.png,Harle,"| Harle | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 32.png, 202000000 icon.png, 216000004 icon.png",2021-12-09
+157,/thumb.php?f=101440021_rank5_command.png&width=80,101440021 rank5 command.png,Kid,"| Kid | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2021-12-09
+158,/thumb.php?f=101030121_s2_rank5_command.png&width=80,101030121 s2 rank5 command.png,Kikyo AS,"| Kikyo AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2021-12-09
+159,/thumb.php?f=101440011_rank5_command.png&width=80,101440011 rank5 command.png,Serge,"| Serge | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000001 icon.png, 216000002 icon.png",2021-12-09
+160,/thumb.php?f=101050141_rank5_command.png&width=80,101050141 rank5 command.png,Pizzica,"| Pizzica | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2021-11-17
+161,/thumb.php?f=101040081_s2_rank5_command.png&width=80,101040081 s2 rank5 command.png,Sheila AS,"| Sheila AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2021-11-17
+162,/thumb.php?f=101060131_s2_rank5_command.png&width=80,101060131 s2 rank5 command.png,Hardy AS,"| Hardy AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2021-11-04
+163,/thumb.php?f=101000191_s2_rank5_command.png&width=80,101000191 s2 rank5 command.png,Chiyo AS,"| Chiyo AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2021-10-18
+164,/thumb.php?f=101020111_s2_rank5_command.png&width=80,101020111 s2 rank5 command.png,Victor AS,"| Victor AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 16.png, 202000002 icon.png, 216000004 icon.png",2021-09-17
+165,/thumb.php?f=101070091_s2_rank5_command.png&width=80,101070091 s2 rank5 command.png,Myunfa AS,"| Myunfa AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000007 icon.png, 216000002 icon.png",2021-09-06
+166,/thumb.php?f=101040161_rank5_command.png&width=80,101040161 rank5 command.png,Garambarrel,"| Garambarrel | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000004 icon.png, 216000002 icon.png",2021-08-27
+167,/thumb.php?f=101030151_rank5_command.png&width=80,101030151 rank5 command.png,Necoco,"| Necoco | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000003 icon.png, 216000003 icon.png",2021-08-18
+168,/thumb.php?f=101020081_s3_rank5_command.png&width=80,101020081 s3 rank5 command.png,Tsukiha ES,"| Tsukiha ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000005 icon.png, 216000004 icon.png",2021-08-18
+169,/thumb.php?f=101060111_s2_rank5_command.png&width=80,101060111 s2 rank5 command.png,Tsubame AS,"| Tsubame AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2021-08-06
+170,/thumb.php?f=101000141_rank5_command.png&width=80,101000141 rank5 command.png,Melody,"| Melody | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000000 icon.png, 216000004 icon.png",2021-07-27
+171,/thumb.php?f=101000261_s2_rank5_command.png&width=80,101000261 s2 rank5 command.png,Clarte AS,"| Clarte AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, Skill Type 8 64.png, 202000000 icon.png, 216000004 icon.png",2021-07-15
+172,/thumb.php?f=101010121_s2_rank5_command.png&width=80,101010121 s2 rank5 command.png,Thillelille AS,"| Thillelille AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 32.png, 202000001 icon.png, 216000002 icon.png",2021-07-15
+173,/thumb.php?f=101040121_s2_rank5_command.png&width=80,101040121 s2 rank5 command.png,Tiramisu AS,"| Tiramisu AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2021-07-06
+174,/thumb.php?f=101020101_s2_rank5_command.png&width=80,101020101 s2 rank5 command.png,Shigure AS,"| Shigure AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000002 icon.png, 216000004 icon.png",2021-06-17
+175,/thumb.php?f=101070061_s3_rank5_command.png&width=80,101070061 s3 rank5 command.png,Melina ES,"| Melina ES | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 16.png, 202000006 icon.png, 216000003 icon.png",2021-06-07
+176,/thumb.php?f=101000251_s2_rank5_command.png&width=80,101000251 s2 rank5 command.png,Dunarith AS,"| Dunarith AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000000 icon.png, 216000004 icon.png",2021-05-26
+177,/thumb.php?f=101040141_rank5_command.png&width=80,101040141 rank5 command.png,Ewella,"| Ewella | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, Skill Type 8 64.png, 202000004 icon.png, 216000002 icon.png",2021-05-19
+178,/thumb.php?f=101010041_s2_rank5_command.png&width=80,101010041 s2 rank5 command.png,Miyu AS,"| Miyu AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2021-05-11
+179,/thumb.php?f=101000171_s2_rank5_command.png&width=80,101000171 s2 rank5 command.png,Radica AS,"| Radica AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2021-04-28
+180,/thumb.php?f=101040111_s2_rank5_command.png&width=80,101040111 s2 rank5 command.png,Hismena AS,"| Hismena AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2021-04-20
+181,/thumb.php?f=101040131_rank5_command.png&width=80,101040131 rank5 command.png,Milsha,"| Milsha | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, Skill Type 8 32.png, 202000004 icon.png, 216000002 icon.png",2021-04-09
+182,/thumb.php?f=101070051_s2_rank5_command.png&width=80,101070051 s2 rank5 command.png,Ewan AS,"| Ewan AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000007 icon.png, 216000002 icon.png",2021-03-30
+183,/thumb.php?f=101030101_s2_rank5_command.png&width=80,101030101 s2 rank5 command.png,Ilulu AS,"| Ilulu AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2021-03-22
+184,/thumb.php?f=101050091_s2_rank5_command.png&width=80,101050091 s2 rank5 command.png,Hozuki AS,"| Hozuki AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2021-03-10
+185,/thumb.php?f=101000241_s2_rank5_command.png&width=80,101000241 s2 rank5 command.png,Rosetta AS,"| Rosetta AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2021-02-10
+186,/thumb.php?f=101020131_rank5_command.png&width=80,101020131 rank5 command.png,Melissa,"| Melissa | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 64.png, 202000002 icon.png, 216000004 icon.png",2021-01-29
+187,/thumb.php?f=101020121_rank5_command.png&width=80,101020121 rank5 command.png,Heena,"| Heena | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2021-01-20
+188,/thumb.php?f=101050131_rank5_command.png&width=80,101050131 rank5 command.png,Yukino,"| Yukino | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000005 icon.png, 216000004 icon.png",2021-01-12
+189,/thumb.php?f=101020081_s2_rank5_command.png&width=80,101020081 s2 rank5 command.png,Tsukiha AS,"| Tsukiha AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2020-12-25
+190,/thumb.php?f=101040101_s2_rank5_command.png&width=80,101040101 s2 rank5 command.png,Bertrand AS,"| Bertrand AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2020-12-17
+191,/thumb.php?f=101430011_rank5_command.png&width=80,101430011 rank5 command.png,Cress,"| Cress | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2020-12-17
+192,/thumb.php?f=101430031_rank5_command.png&width=80,101430031 rank5 command.png,Milla,"| Milla | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2020-12-17
+193,/thumb.php?f=101430041_rank5_command.png&width=80,101430041 rank5 command.png,Velvet,"| Velvet | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2020-12-17
+194,/thumb.php?f=101430021_rank5_command.png&width=80,101430021 rank5 command.png,Yuri,"| Yuri | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2020-12-17
+195,/thumb.php?f=101000261_rank5_command.png&width=80,101000261 rank5 command.png,Clarte,"| Clarte | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, Skill Type 8 64.png, 202000000 icon.png, 216000004 icon.png",2020-11-25
+196,/thumb.php?f=101050121_rank5_command.png&width=80,101050121 rank5 command.png,Mistrare,"| Mistrare | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_64.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 64.png, 202000005 icon.png, 216000004 icon.png",2020-11-25
+197,/thumb.php?f=101400011_rank5_command.png&width=80,101400011 rank5 command.png,Skull,"| Skull | 
+ | 5★","/thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 16.png, 202000007 icon.png, 216000002 icon.png",2020-11-17
+198,/thumb.php?f=101020111_rank5_command.png&width=80,101020111 rank5 command.png,Victor,"| Victor | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=Skill_Type_8_16.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, Skill Type 8 16.png, 202000002 icon.png, 216000004 icon.png",2020-11-17
+199,/thumb.php?f=101400071_rank5_command.png&width=80,101400071 rank5 command.png,Violet,"| Violet | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2020-11-17
+200,/thumb.php?f=101040051_s2_rank5_command.png&width=80,101040051 s2 rank5 command.png,Foran AS,"| Foran AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2020-11-05
+201,/thumb.php?f=101010121_rank5_command.png&width=80,101010121 rank5 command.png,Thillelille,"| Thillelille | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_32.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 32.png, 202000001 icon.png, 216000002 icon.png",2020-11-05
+202,/thumb.php?f=101050021_s2_rank5_command.png&width=80,101050021 s2 rank5 command.png,Ciel AS,"| Ciel AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000005 icon.png, 216000004 icon.png",2020-10-27
+203,/thumb.php?f=101070101_rank5_command.png&width=80,101070101 rank5 command.png,Yipha,"| Yipha | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000007 icon.png, 216000002 icon.png",2020-10-14
+204,/thumb.php?f=101010091_s2_rank5_command.png&width=80,101010091 s2 rank5 command.png,Shannon AS,"| Shannon AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2020-09-30
+205,/thumb.php?f=101060131_rank5_command.png&width=80,101060131 rank5 command.png,Hardy,"| Hardy | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2020-09-17
+206,/thumb.php?f=101030141_rank5_command.png&width=80,101030141 rank5 command.png,Sophia,"| Sophia | 
+ | 2~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2020-09-17
+207,/thumb.php?f=101010101_rank5_command.png&width=80,101010101 rank5 command.png,Cynthia,"| Cynthia | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2020-09-09
+208,/thumb.php?f=101000011_s2_rank5_command.png&width=80,101000011 s2 rank5 command.png,Veina AS,"| Veina AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000000 icon.png, 216000004 icon.png",2020-08-31
+209,/thumb.php?f=101030131_rank5_command.png&width=80,101030131 rank5 command.png,Zeviro,"| Zeviro | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2020-08-20
+210,/thumb.php?f=101010011_s2_rank5_command.png&width=80,101010011 s2 rank5 command.png,Anabel AS,"| Anabel AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2020-08-06
+211,/thumb.php?f=101010111_rank5_command.png&width=80,101010111 rank5 command.png,Radias,"| Radias | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2020-07-28
+212,/thumb.php?f=101000221_s2_rank5_command.png&width=80,101000221 s2 rank5 command.png,Myrus AS,"| Myrus AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2020-07-17
+213,/thumb.php?f=101030091_s2_rank5_command.png&width=80,101030091 s2 rank5 command.png,Renri AS,"| Renri AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000003 icon.png, 216000003 icon.png",2020-07-09
+214,/thumb.php?f=101040121_rank5_command.png&width=80,101040121 rank5 command.png,Tiramisu,"| Tiramisu | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2020-07-01
+215,/thumb.php?f=101020091_s2_rank5_command.png&width=80,101020091 s2 rank5 command.png,Elga AS,"| Elga AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000002 icon.png, 216000004 icon.png",2020-06-18
+216,/thumb.php?f=101060091_s2_rank5_command.png&width=80,101060091 s2 rank5 command.png,Felmina AS,"| Felmina AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000006 icon.png, 216000003 icon.png",2020-05-29
+217,/thumb.php?f=101070091_rank5_command.png&width=80,101070091 rank5 command.png,Myunfa,"| Myunfa | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000007 icon.png, 216000002 icon.png",2020-05-20
+218,/thumb.php?f=101040091_s2_rank5_command.png&width=80,101040091 s2 rank5 command.png,Cetie AS,"| Cetie AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000004 icon.png, 216000002 icon.png",2020-05-12
+219,/thumb.php?f=101800111_rank5_command.png&width=80,101800111 rank5 command.png,Altena,"| Altena | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000005 icon.png, 216000004 icon.png",2020-04-24
+220,/thumb.php?f=101030121_rank5_command.png&width=80,101030121 rank5 command.png,Kikyo,"| Kikyo | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2020-04-24
+221,/thumb.php?f=101020021_s2_rank5_command.png&width=80,101020021 s2 rank5 command.png,Nikeh AS,"| Nikeh AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000002 icon.png, 216000004 icon.png",2020-04-24
+222,/thumb.php?f=101160041_rank5_command.png&width=80,101160041 rank5 command.png,Strawboy,"| Strawboy | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2020-04-24
+223,/thumb.php?f=101100041_rank5_command.png&width=80,101100041 rank5 command.png,Strawboy,"| Strawboy | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2020-04-24
+224,/thumb.php?f=101110041_rank5_command.png&width=80,101110041 rank5 command.png,Strawboy,"| Strawboy | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2020-04-24
+225,/thumb.php?f=101170041_rank5_command.png&width=80,101170041 rank5 command.png,Strawboy,"| Strawboy | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2020-04-24
+226,/thumb.php?f=101140041_rank5_command.png&width=80,101140041 rank5 command.png,Strawboy,"| Strawboy | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2020-04-24
+227,/thumb.php?f=101050081_s2_rank5_command.png&width=80,101050081 s2 rank5 command.png,Claude AS,"| Claude AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000005 icon.png, 216000004 icon.png",2020-04-14
+228,/thumb.php?f=101050111_rank5_command.png&width=80,101050111 rank5 command.png,Premaya,"| Premaya | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000005 icon.png, 216000004 icon.png",2020-04-02
+229,/thumb.php?f=101000081_s2_rank5_command.png&width=80,101000081 s2 rank5 command.png,Gariyu AS,"| Gariyu AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2020-03-24
+230,/thumb.php?f=101000121_s2_rank5_command.png&width=80,101000121 s2 rank5 command.png,Yuna AS,"| Yuna AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2020-03-24
+231,/thumb.php?f=101010081_s2_rank5_command.png&width=80,101010081 s2 rank5 command.png,Shanie AS,"| Shanie AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2020-03-11
+232,/thumb.php?f=101010031_s2_rank5_command.png&width=80,101010031 s2 rank5 command.png,Ruina AS,"| Ruina AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2020-03-03
+233,/thumb.php?f=101040111_rank5_command.png&width=80,101040111 rank5 command.png,Hismena,"| Hismena | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2020-02-21
+234,/thumb.php?f=101050101_rank5_command.png&width=80,101050101 rank5 command.png,Mana,"| Mana | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000005 icon.png, 216000004 icon.png",2020-02-21
+235,/thumb.php?f=101000031_s2_rank5_command.png&width=80,101000031 s2 rank5 command.png,Mariel AS,"| Mariel AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2020-02-21
+236,/thumb.php?f=101000251_rank5_command.png&width=80,101000251 rank5 command.png,Dunarith,"| Dunarith | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000000 icon.png, 216000004 icon.png",2020-02-10
+237,/thumb.php?f=101060031_s2_rank5_command.png&width=80,101060031 s2 rank5 command.png,Lokido AS,"| Lokido AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2020-01-29
+238,/thumb.php?f=101060121_rank5_command.png&width=80,101060121 rank5 command.png,Lovely,"| Lovely | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2020-01-22
+239,/thumb.php?f=101030111_rank5_command.png&width=80,101030111 rank5 command.png,Philo,"| Philo | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2020-01-10
+240,/thumb.php?f=101030071_s2_rank5_command.png&width=80,101030071 s2 rank5 command.png,Nagi AS,"| Nagi AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000003 icon.png, 216000003 icon.png",2019-12-28
+241,/thumb.php?f=101020051_s2_rank5_command.png&width=80,101020051 s2 rank5 command.png,Akane AS,"| Akane AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2019-12-19
+242,/thumb.php?f=101410011_rank5_command.png&width=80,101410011 rank5 command.png,Joker,"| Joker | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2019-12-12
+243,/thumb.php?f=101420011_rank5_command.png&width=80,101420011 rank5 command.png,Morgana,"| Morgana | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2019-12-12
+244,/thumb.php?f=101000241_rank5_command.png&width=80,101000241 rank5 command.png,Rosetta,"| Rosetta | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2019-12-12
+245,/thumb.php?f=101020101_rank5_command.png&width=80,101020101 rank5 command.png,Shigure,"| Shigure | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000002 icon.png, 216000004 icon.png",2019-12-05
+246,/thumb.php?f=101060111_rank5_command.png&width=80,101060111 rank5 command.png,Tsubame,"| Tsubame | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2019-12-05
+247,/thumb.php?f=101070061_s2_rank5_command.png&width=80,101070061 s2 rank5 command.png,Melina AS,"| Melina AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000007 icon.png, 216000002 icon.png",2019-11-27
+248,/thumb.php?f=101070081_rank5_command.png&width=80,101070081 rank5 command.png,Biaka,"| Biaka | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000007 icon.png, 216000002 icon.png",2019-11-14
+249,/thumb.php?f=101800063_rank5_command.png&width=80,101800063 rank5 command.png,Galliard,"| Galliard | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2019-11-14
+250,/thumb.php?f=101050091_rank5_command.png&width=80,101050091 rank5 command.png,Hozuki,"| Hozuki | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2019-11-08
+251,/thumb.php?f=101050061_s2_rank5_command.png&width=80,101050061 s2 rank5 command.png,Laclair AS,"| Laclair AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000005 icon.png, 216000004 icon.png",2019-10-31
+252,/thumb.php?f=101030101_rank5_command.png&width=80,101030101 rank5 command.png,Ilulu,"| Ilulu | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2019-10-25
+253,/thumb.php?f=101000171_rank5_command.png&width=80,101000171 rank5 command.png,Radica,"| Radica | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2019-10-25
+254,/thumb.php?f=101070071_command.png&width=80,101070071 command.png,Nopaew,"| Nopaew | 
+ | 2~4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000007 icon.png, 216000002 icon.png",2019-10-25
+255,/thumb.php?f=101060101_rank5_command.png&width=80,101060101 rank5 command.png,Dewey,"| Dewey | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000006 icon.png, 216000003 icon.png",2019-10-15
+256,/thumb.php?f=101020031_s2_rank5_command.png&width=80,101020031 s2 rank5 command.png,Shion AS,"| Shion AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2019-10-15
+257,/thumb.php?f=101000011_rank5_command.png&width=80,101000011 rank5 command.png,Veina,"| Veina | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000000 icon.png, 216000004 icon.png",2019-10-03
+258,/thumb.php?f=101020091_rank5_command.png&width=80,101020091 rank5 command.png,Elga,"| Elga | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000002 icon.png, 216000004 icon.png",2019-09-27
+259,/thumb.php?f=101000051_s2_rank5_command.png&width=80,101000051 s2 rank5 command.png,Toova AS,"| Toova AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2019-09-27
+260,/thumb.php?f=101030091_rank5_command.png&width=80,101030091 rank5 command.png,Renri,"| Renri | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 1.png, 202000003 icon.png, 216000003 icon.png",2019-09-20
+261,/thumb.php?f=101010091_rank5_command.png&width=80,101010091 rank5 command.png,Shannon,"| Shannon | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2019-09-20
+262,/thumb.php?f=101020071_s2_rank5_command.png&width=80,101020071 s2 rank5 command.png,Isuka AS,"| Isuka AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2019-09-13
+263,/thumb.php?f=101000231_s2_rank5_command.png&width=80,101000231 s2 rank5 command.png,Saki AS,"| Saki AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2019-09-13
+264,/thumb.php?f=101050081_rank5_command.png&width=80,101050081 rank5 command.png,Claude,"| Claude | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000005 icon.png, 216000004 icon.png",2019-08-30
+265,/thumb.php?f=101000041_s2_rank5_command.png&width=80,101000041 s2 rank5 command.png,Mighty AS,"| Mighty AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2019-08-30
+266,/thumb.php?f=101000231_command.png&width=80,101000231 command.png,Saki,"| Saki | 
+ | 2~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2019-08-30
+267,/thumb.php?f=101020081_rank5_command.png&width=80,101020081 rank5 command.png,Tsukiha,"| Tsukiha | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2019-08-19
+268,/thumb.php?f=101040101_rank5_command.png&width=80,101040101 rank5 command.png,Bertrand,"| Bertrand | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2019-08-07
+269,/thumb.php?f=101060091_rank5_command.png&width=80,101060091 rank5 command.png,Felmina,"| Felmina | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000006 icon.png, 216000003 icon.png",2019-08-07
+270,/thumb.php?f=101800041_rank5_command.png&width=80,101800041 rank5 command.png,Guildna,"| Guildna | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2019-07-31
+271,/thumb.php?f=101040031_s2_rank5_command.png&width=80,101040031 s2 rank5 command.png,Suzette AS,"| Suzette AS | 
+ | 5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000004 icon.png, 216000002 icon.png",2019-07-31
+272,/thumb.php?f=101000221_rank5_command.png&width=80,101000221 rank5 command.png,Myrus,"| Myrus | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2019-07-24
+273,/thumb.php?f=101060061_command.png&width=80,101060061 command.png,Good Macky,"| Good Macky | 
+ | 4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000006 icon.png, 216000003 icon.png",2019-07-11
+274,/thumb.php?f=101070061_rank5_command.png&width=80,101070061 rank5 command.png,Melina,"| Melina | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000007 icon.png, 216000002 icon.png",2019-07-04
+275,/thumb.php?f=101000211_rank5_command.png&width=80,101000211 rank5 command.png,Nonold,"| Nonold | 
+ | 3~5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-07-04
+276,/thumb.php?f=101030081_command.png&width=80,101030081 command.png,Zilva,"| Zilva | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000003 icon.png, 216000003 icon.png",2019-07-04
+277,/thumb.php?f=101010081_rank5_command.png&width=80,101010081 rank5 command.png,Shanie,"| Shanie | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2019-06-26
+278,/thumb.php?f=101060081_rank5_command.png&width=80,101060081 rank5 command.png,Cerrine,"| Cerrine | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2019-06-12
+279,/thumb.php?f=101040091_rank5_command.png&width=80,101040091 rank5 command.png,Cetie,"| Cetie | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000004 icon.png, 216000002 icon.png",2019-06-12
+280,/thumb.php?f=101030061_command.png&width=80,101030061 command.png,Yazuki,"| Yazuki | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2019-06-12
+281,/thumb.php?f=101070051_rank5_command.png&width=80,101070051 rank5 command.png,Ewan,"| Ewan | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000007 icon.png, 216000002 icon.png",2019-05-22
+282,/thumb.php?f=101000151_command.png&width=80,101000151 command.png,Erina,"| Erina | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-05-22
+283,/thumb.php?f=101000201_rank5_command.png&width=80,101000201 rank5 command.png,Levia,"| Levia | 
+ | 5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2019-05-08
+284,/thumb.php?f=101030071_rank5_command.png&width=80,101030071 rank5 command.png,Nagi,"| Nagi | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000003 icon.png, 216000003 icon.png",2019-05-08
+285,/thumb.php?f=101000191_command.png&width=80,101000191 command.png,Chiyo,"| Chiyo | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2019-05-08
+286,/thumb.php?f=101040081_command.png&width=80,101040081 command.png,Sheila,"| Sheila | 
+ | 2~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2019-05-08
+287,/thumb.php?f=101000081_rank5_command.png&width=80,101000081 rank5 command.png,Gariyu,"| Gariyu | 
+ | 2~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2019-04-11
+288,/thumb.php?f=101000121_rank5_command.png&width=80,101000121 rank5 command.png,Yuna,"| Yuna | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-04-11
+289,/thumb.php?f=101050071_command.png&width=80,101050071 command.png,Lovinia,"| Lovinia | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000005 icon.png, 216000004 icon.png",2019-04-11
+290,/thumb.php?f=101020071_rank5_command.png&width=80,101020071 rank5 command.png,Isuka,"| Isuka | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2019-03-27
+291,/thumb.php?f=101040071_rank5_command.png&width=80,101040071 rank5 command.png,Jade,"| Jade | 
+ | 2~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000004 icon.png, 216000002 icon.png",2019-03-27
+292,/thumb.php?f=101010031_command.png&width=80,101010031 command.png,Ruina,"| Ruina | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000001 icon.png, 216000002 icon.png",2019-03-27
+293,/thumb.php?f=101020011_rank5_command.png&width=80,101020011 rank5 command.png,Azami,"| Azami | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000002 icon.png, 216000004 icon.png",2019-03-13
+294,/thumb.php?f=101050061_rank5_command.png&width=80,101050061 rank5 command.png,Laclair,"| Laclair | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000005 icon.png, 216000004 icon.png",2019-03-13
+295,/thumb.php?f=101070021_command.png&width=80,101070021 command.png,Samora,"| Samora | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000007 icon.png, 216000002 icon.png",2019-03-13
+296,/thumb.php?f=101010011_rank5_command.png&width=80,101010011 rank5 command.png,Anabel,"| Anabel | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000001 icon.png, 216000002 icon.png",2019-02-28
+297,/thumb.php?f=101010051_rank5_command.png&width=80,101010051 rank5 command.png,Deirdre,"| Deirdre | 
+ | 2~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2019-02-28
+298,/thumb.php?f=101060071_command.png&width=80,101060071 command.png,Nero,"| Nero | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000006 icon.png, 216000003 icon.png",2019-02-28
+299,/thumb.php?f=101910011_rank5_command.png&width=80,101910011 rank5 command.png,Aldo,"| Aldo | 
+ | 3~5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2019-01-28
+300,/thumb.php?f=101960011_rank5_command.png&width=80,101960011 rank5 command.png,Amy,"| Amy | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 4.png, 202000006 icon.png, 216000003 icon.png",2019-01-28
+301,/thumb.php?f=101030021_rank5_command.png&width=80,101030021 rank5 command.png,Benedict,"| Benedict | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+302,/thumb.php?f=101000061_rank5_command.png&width=80,101000061 rank5 command.png,Bivette,"| Bivette | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+303,/thumb.php?f=101140021_rank5_command.png&width=80,101140021 rank5 command.png,Bria,"| Bria | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+304,/thumb.php?f=101050021_rank5_command.png&width=80,101050021 rank5 command.png,Ciel,"| Ciel | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000005 icon.png, 216000004 icon.png",2019-01-28
+305,/thumb.php?f=101920011_rank5_command.png&width=80,101920011 rank5 command.png,Cyrus,"| Cyrus | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 8.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+306,/thumb.php?f=101900011_rank5_command.png&width=80,101900011 rank5 command.png,Feinne,"| Feinne | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+307,/thumb.php?f=101800052_rank5_command.png&width=80,101800052 rank5 command.png,Helena,"| Helena | 
+ | 3~5★ SA","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+308,/thumb.php?f=101060031_rank5_command.png&width=80,101060031 rank5 command.png,Lokido,"| Lokido | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000006 icon.png, 216000003 icon.png",2019-01-28
+309,/thumb.php?f=101000031_rank5_command.png&width=80,101000031 rank5 command.png,Mariel,"| Mariel | 
+ | 4~5★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+310,/thumb.php?f=101070031_rank5_command.png&width=80,101070031 rank5 command.png,May,"| May | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000007 icon.png, 216000002 icon.png",2019-01-28
+311,/thumb.php?f=101000041_rank5_command.png&width=80,101000041 rank5 command.png,Mighty,"| Mighty | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+312,/thumb.php?f=101010041_rank5_command.png&width=80,101010041 rank5 command.png,Miyu,"| Miyu | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, 202000001 icon.png, 216000002 icon.png",2019-01-28
+313,/thumb.php?f=101070011_rank5_command.png&width=80,101070011 rank5 command.png,Prai,"| Prai | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 1.png, Skill Type 8 0.png, 202000007 icon.png, 216000002 icon.png",2019-01-28
+314,/thumb.php?f=101970011_rank5_command.png&width=80,101970011 rank5 command.png,Riica,"| Riica | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000007 icon.png, 216000002 icon.png",2019-01-28
+315,/thumb.php?f=101000111_rank5_command.png&width=80,101000111 rank5 command.png,Sevyn,"| Sevyn | 
+ | 3~5★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+316,/thumb.php?f=101020031_rank5_command.png&width=80,101020031 rank5 command.png,Shion,"| Shion | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+317,/thumb.php?f=101040031_rank5_command.png&width=80,101040031 rank5 command.png,Suzette,"| Suzette | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+318,/thumb.php?f=101000051_rank5_command.png&width=80,101000051 rank5 command.png,Toova,"| Toova | 
+ | 4~5★ SA","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+319,/thumb.php?f=101020051_command.png&width=80,101020051 command.png,Akane,"| Akane | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+320,/thumb.php?f=101010021_command.png&width=80,101010021 command.png,Breeno,"| Breeno | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2019-01-28
+321,/thumb.php?f=101030051_command.png&width=80,101030051 command.png,Cyuca,"| Cyuca | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 4.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+322,/thumb.php?f=101050041_command.png&width=80,101050041 command.png,Darunis,"| Darunis | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 4.png, 202000005 icon.png, 216000004 icon.png",2019-01-28
+323,/thumb.php?f=101030031_command.png&width=80,101030031 command.png,Denny,"| Denny | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 8.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+324,/thumb.php?f=101040051_command.png&width=80,101040051 command.png,Foran,"| Foran | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+325,/thumb.php?f=101040011_command.png&width=80,101040011 command.png,Komachi,"| Komachi | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+326,/thumb.php?f=101000071_command.png&width=80,101000071 command.png,Krervo,"| Krervo | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+327,/thumb.php?f=101000101_command.png&width=80,101000101 command.png,Lele,"| Lele | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+328,/thumb.php?f=101060021_command.png&width=80,101060021 command.png,Lingli,"| Lingli | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2019-01-28
+329,/thumb.php?f=101030041_command.png&width=80,101030041 command.png,Miranda,"| Miranda | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+330,/thumb.php?f=101010061_command.png&width=80,101010061 command.png,Myron,"| Myron | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 2.png, 202000001 icon.png, 216000002 icon.png",2019-01-28
+331,/thumb.php?f=101020021_command.png&width=80,101020021 command.png,Nikeh,"| Nikeh | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+332,/thumb.php?f=101040041_command.png&width=80,101040041 command.png,Nomar,"| Nomar | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 8.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+333,/thumb.php?f=101020041_command.png&width=80,101020041 command.png,Otoha,"| Otoha | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+334,/thumb.php?f=101050031_command.png&width=80,101050031 command.png,Parisa,"| Parisa | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 1.png, 202000005 icon.png, 216000004 icon.png",2019-01-28
+335,/thumb.php?f=101000161_command.png&width=80,101000161 command.png,Pom,"| Pom | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+336,/thumb.php?f=101000021_command.png&width=80,101000021 command.png,Raven,"| Raven | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 2.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+337,/thumb.php?f=101050051_command.png&width=80,101050051 command.png,Rovella,"| Rovella | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_8.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 8.png, 202000005 icon.png, 216000004 icon.png",2019-01-28
+338,/thumb.php?f=101060051_command.png&width=80,101060051 command.png,Rufus,"| Rufus | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_1.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 1.png, 202000006 icon.png, 216000003 icon.png",2019-01-28
+339,/thumb.php?f=101040021_command.png&width=80,101040021 command.png,Soira,"| Soira | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_4.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 4.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+340,/thumb.php?f=101030011_command.png&width=80,101030011 command.png,Yio,"| Yio | 
+ | 3~4★","/thumb.php?f=Skill_Type_8_2.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 2.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+341,/thumb.php?f=101150011_command.png&width=80,101150011 command.png,Asia,"| Asia | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000005 icon.png, 216000004 icon.png",2019-01-28
+342,/thumb.php?f=101170021_command.png&width=80,101170021 command.png,Ctos,"| Ctos | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000007 icon.png, 216000002 icon.png",2019-01-28
+343,/thumb.php?f=101140031_command.png&width=80,101140031 command.png,Een,"| Een | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+344,/thumb.php?f=101160021_command.png&width=80,101160021 command.png,Emms,"| Emms | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2019-01-28
+345,/thumb.php?f=101130021_command.png&width=80,101130021 command.png,Esta,"| Esta | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+346,/thumb.php?f=101100011_command.png&width=80,101100011 command.png,Kilqia,"| Kilqia | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+347,/thumb.php?f=101120031_command.png&width=80,101120031 command.png,Koot,"| Koot | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+348,/thumb.php?f=101120011_command.png&width=80,101120011 command.png,Menesia,"| Menesia | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+349,/thumb.php?f=101110021_command.png&width=80,101110021 command.png,Natore,"| Natore | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000001 icon.png, 216000002 icon.png",2019-01-28
+350,/thumb.php?f=101110011_command.png&width=80,101110011 command.png,Naylia,"| Naylia | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000001 icon.png, 216000002 icon.png",2019-01-28
+351,/thumb.php?f=101150021_command.png&width=80,101150021 command.png,Nixa,"| Nixa | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000005 icon.png, 216000004 icon.png",2019-01-28
+352,/thumb.php?f=101100031_command.png&width=80,101100031 command.png,Noome,"| Noome | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-01-28
+353,/thumb.php?f=101130031_command.png&width=80,101130031 command.png,Oor,"| Oor | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+354,/thumb.php?f=101170011_command.png&width=80,101170011 command.png,Pasia,"| Pasia | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000007 icon.png, 216000002 icon.png",2019-01-28
+355,/thumb.php?f=101130011_command.png&width=80,101130011 command.png,Rodeia,"| Rodeia | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000003_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000003 icon.png, 216000003 icon.png",2019-01-28
+356,/thumb.php?f=101150031_command.png&width=80,101150031 command.png,Saithe,"| Saithe | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000005_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000005 icon.png, 216000004 icon.png",2019-01-28
+357,/thumb.php?f=101140011_command.png&width=80,101140011 command.png,Sauria,"| Sauria | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000004_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000004 icon.png, 216000002 icon.png",2019-01-28
+358,/thumb.php?f=101160031_command.png&width=80,101160031 command.png,Tayme,"| Tayme | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2019-01-28
+359,/thumb.php?f=101120021_command.png&width=80,101120021 command.png,Tohme,"| Tohme | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000002_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000002 icon.png, 216000004 icon.png",2019-01-28
+360,/thumb.php?f=101170031_command.png&width=80,101170031 command.png,Toole,"| Toole | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000007_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000007 icon.png, 216000002 icon.png",2019-01-28
+361,/thumb.php?f=101160011_command.png&width=80,101160011 command.png,Urania,"| Urania | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000006_icon.png&width=32, /thumb.php?f=216000003_icon.png&width=32","Skill Type 8 0.png, 202000006 icon.png, 216000003 icon.png",2019-01-28
+362,/thumb.php?f=101110031_command.png&width=80,101110031 command.png,Uuo,"| Uuo | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000001_icon.png&width=32, /thumb.php?f=216000002_icon.png&width=32","Skill Type 8 0.png, 202000001 icon.png, 216000002 icon.png",2019-01-28
+363,/thumb.php?f=101100021_command.png&width=80,101100021 command.png,Yssis,"| Yssis | 
+ | 3★","/thumb.php?f=Skill_Type_8_0.png&width=32, /thumb.php?f=202000000_icon.png&width=32, /thumb.php?f=216000004_icon.png&width=32","Skill Type 8 0.png, 202000000 icon.png, 216000004 icon.png",2019-01-28

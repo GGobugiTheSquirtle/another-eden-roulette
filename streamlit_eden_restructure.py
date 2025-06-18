@@ -160,10 +160,19 @@ def slot_machine_display(items, winner_index, item_display_duration_ms=50, spin_
         <div id="{slot_id}_result_name"></div>
     </div>
 
+    <!-- Audio Elements -->
+    <audio id="{slot_id}_spin_start_sound" src="audio/spin_start.mp3" preload="auto"></audio>
+    <audio id="{slot_id}_spin_stop_sound" src="audio/spin_stop.mp3" preload="auto"></audio>
+    <audio id="{slot_id}_win_sound" src="audio/win_sound.mp3" preload="auto"></audio>
+
     <script>
     (function() {{
         const slotImage = document.getElementById("{slot_id}_img_tag");
         const resultNameDisplay = document.getElementById("{slot_id}_result_name");
+        const spinStartSound = document.getElementById("{slot_id}_spin_start_sound");
+        const spinStopSound = document.getElementById("{slot_id}_spin_stop_sound");
+        const winSound = document.getElementById("{slot_id}_win_sound");
+
         const items = {item_images_js};
         const winnerIdx = {winner_index};
         const winnerName = "{winner_name_js}";
@@ -187,6 +196,9 @@ def slot_machine_display(items, winner_index, item_display_duration_ms=50, spin_
             slotImage.src = "https://via.placeholder.com/280?text=NoItems"; 
         }}
 
+        // 스핀 시작 시 사운드 재생
+        spinStartSound.play();
+
         function spin() {{
             currentIndex = (currentIndex + 1) % numItems;
             slotImage.src = items[currentIndex];
@@ -196,12 +208,16 @@ def slot_machine_display(items, winner_index, item_display_duration_ms=50, spin_
             // 스핀 종료 조건: 총 스핀 시간을 초과했거나, 특정 아이템에 도달하기 직전
             if (elapsedTime >= totalSpinTime) {{
                 clearInterval(spinInterval);
+                spinStopSound.play(); // 스핀 종료 사운드 재생
                 slotImage.src = items[winnerIdx]; // 최종 당첨자 이미지로 설정
                 resultNameDisplay.innerHTML = "🎉 " + winnerName + " 🎉";
                 // 애니메이션을 좀 더 부드럽게 멈추는 효과 (옵션)
                 slotImage.style.transition = "transform 0.3s ease-out";
                 slotImage.style.transform = "scale(1.05)";
-                setTimeout(() => {{ slotImage.style.transform = "scale(1)"; }}, 300);
+                setTimeout(() => {{ 
+                    slotImage.style.transform = "scale(1)"; 
+                    winSound.play(); // 당첨 사운드 재생
+                }}, 300);
                 return;
             }}
         }}

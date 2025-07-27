@@ -1,13 +1,13 @@
 # 전체 무시
 *
 
-# 포함할 항목
+# 예외
 !.gitignore
 !streamlit_eden_restructure.py
 !eden_roulette_data.csv
 !requirements.txt
 !another_eden_characters_detailed.xlsx
 
-# character_art 폴더 및 모든 하위 포함
+# 폴더 및 하위 파일 포함
 !character_art/
 !character_art/**/*

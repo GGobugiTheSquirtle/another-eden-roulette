@@ -1,10 +1,13 @@
-# Ignore everything by default
+# 무조건 무시
 *
 
-# Keep the following files and directories
+# 예외 목록 (포함할 항목)
 !.gitignore
 !streamlit_eden_restructure.py
 !eden_roulette_data.csv
 !requirements.txt
-!character_art/
 !another_eden_characters_detailed.xlsx
+
+# 폴더 및 모든 하위 파일 포함
+!character_art/
+!character_art/**/*

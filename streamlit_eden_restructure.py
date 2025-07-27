@@ -460,6 +460,16 @@ def main():
             st.sidebar.warning("필터링된 캐릭터가 없습니다.")
             st.session_state.pop('roulette_winner', None)
 
+# 사이드바 하단에 구분선과 출처/저작권 정보 표시
+st.sidebar.markdown("---") 
+st.sidebar.caption(
+    """
+    데이터 출처: [Another Eden Wiki](https://anothereden.wiki/w/Another_Eden_Wiki)  
+    모든 캐릭터 이미지의 저작권은 © WFS에 있습니다.
+    """
+)
+# ----------------------------------------------------------------
+
     # 필터 변경 시 기존 룰렛 데이터 초기화 (선택적)
     current_filter_key = (
         tuple(sorted(sel_rarity)),
